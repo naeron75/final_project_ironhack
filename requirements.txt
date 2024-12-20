@@ -1,0 +1,7 @@
+ucimlrepo
+pandas
+numpy
+tensorflow
+seaborn
+matplotlib
+IPython
