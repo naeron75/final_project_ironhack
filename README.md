@@ -24,3 +24,10 @@ To run this project locally, you will need Python and several dependencies. Foll
 1. Clone this repository:
    ```bash
    git clone https://github.com/naeron75/final_project_ironhack.git
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook.
+
